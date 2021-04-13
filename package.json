@@ -1,0 +1,37 @@
+{
+  "name": "nets-mongoose-handlebars",
+  "version": "0.0.0",
+  "description": "NodeJS - Express - Typescript Scaffolder with Mongoose & Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devgaze/nets-mongoose-handlebars.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "typescript",
+    "mongoos",
+    "handlebars",
+    "scaffolder"
+  ],
+  "author": "Devgaze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devgaze/nets-mongoose-handlebars/issues"
+  },
+  "homepage": "https://github.com/Devgaze/nets-mongoose-handlebars#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "jest": "^26.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.7",
+    "supertest": "^6.1.3"
+  }
+}
